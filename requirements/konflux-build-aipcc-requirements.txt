@@ -18,8 +18,8 @@ pluggy==1.6.0 \
     --hash=sha256:984df28329611bee51530a6c39a6b3267a07abc257ea752a83b40146e1923b87
 pyproject-hooks==1.2.0 \
     --hash=sha256:23f914be06e835a1cac214a3c08daffbdf4d33f685194c76b38b079d8cf1dc62
-setuptools==83.0.0 \
-    --hash=sha256:694ee627d870a25660ec16ffc20ae21c81ec97023b31bc959bc7c1dfb211e1d5
+setuptools==80.10.2 \
+    --hash=sha256:05ef2ee3d34409715c7d0589a3a0c6064a2b117f8489a5b512aef078173d1faf
 trove-classifiers==2026.6.1.19 \
     --hash=sha256:46563a8f495d9439f9f78d5760dbba5c68a24143490ba789b3f0f72c3e6eb421
 wheel==0.47.0 \
